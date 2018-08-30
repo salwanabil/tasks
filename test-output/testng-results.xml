@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="279242" started-at="2018-08-30T02:01:34Z" finished-at="2018-08-30T02:06:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="279242" started-at="2018-08-30T02:01:34Z" finished-at="2018-08-30T02:06:13Z">
+      <class name="testcases.LoginTest">
+        <test-method status="PASS" signature="initiateDriverInsatance()[pri:0, instance:testcases.LoginTest@5e5792a0]" name="initiateDriverInsatance" is-config="true" duration-ms="18338" started-at="2018-08-30T04:01:35Z" finished-at="2018-08-30T04:01:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInsatance -->
+        <test-method status="PASS" signature="tc_001_login_functionality(java.lang.String, java.lang.String)[pri:0, instance:testcases.LoginTest@5e5792a0]" name="tc_001_login_functionality" duration-ms="47429" started-at="2018-08-30T04:01:53Z" data-provider="Static" finished-at="2018-08-30T04:02:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[xagvasdijj_1535317269@tfbnw.net]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password_12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_001_login_functionality -->
+        <test-method status="PASS" signature="closeDriverInstance()[pri:0, instance:testcases.LoginTest@5e5792a0]" name="closeDriverInstance" is-config="true" duration-ms="888" started-at="2018-08-30T04:02:41Z" finished-at="2018-08-30T04:02:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+        <test-method status="PASS" signature="initiateDriverInsatance()[pri:0, instance:testcases.LoginTest@5e5792a0]" name="initiateDriverInsatance" is-config="true" duration-ms="16432" started-at="2018-08-30T04:02:41Z" finished-at="2018-08-30T04:02:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInsatance -->
+        <test-method status="PASS" signature="tc_001_login_functionality(java.lang.String, java.lang.String)[pri:0, instance:testcases.LoginTest@5e5792a0]" name="tc_001_login_functionality" duration-ms="45117" started-at="2018-08-30T04:02:58Z" data-provider="Static" finished-at="2018-08-30T04:03:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[oyvbrxhisu_1535317276@tfbnw.net]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password_12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_001_login_functionality -->
+        <test-method status="PASS" signature="closeDriverInstance()[pri:0, instance:testcases.LoginTest@5e5792a0]" name="closeDriverInstance" is-config="true" duration-ms="926" started-at="2018-08-30T04:03:43Z" finished-at="2018-08-30T04:03:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+        <test-method status="PASS" signature="initiateDriverInsatance()[pri:0, instance:testcases.LoginTest@5e5792a0]" name="initiateDriverInsatance" is-config="true" duration-ms="14514" started-at="2018-08-30T04:03:44Z" finished-at="2018-08-30T04:03:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInsatance -->
+        <test-method status="PASS" signature="tc_001_login_functionality(java.lang.String, java.lang.String)[pri:0, instance:testcases.LoginTest@5e5792a0]" name="tc_001_login_functionality" duration-ms="47824" started-at="2018-08-30T04:03:58Z" data-provider="Static" finished-at="2018-08-30T04:04:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rhwxluomvh_1535317281@tfbnw.net]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password_12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_001_login_functionality -->
+        <test-method status="PASS" signature="closeDriverInstance()[pri:0, instance:testcases.LoginTest@5e5792a0]" name="closeDriverInstance" is-config="true" duration-ms="1134" started-at="2018-08-30T04:04:46Z" finished-at="2018-08-30T04:04:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+        <test-method status="PASS" signature="initiateDriverInsatance()[pri:0, instance:testcases.LoginTest@5e5792a0]" name="initiateDriverInsatance" is-config="true" duration-ms="27065" started-at="2018-08-30T04:04:47Z" finished-at="2018-08-30T04:05:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInsatance -->
+        <test-method status="PASS" signature="tc_001_login_functionality(java.lang.String, java.lang.String)[pri:0, instance:testcases.LoginTest@5e5792a0]" name="tc_001_login_functionality" duration-ms="57629" started-at="2018-08-30T04:05:14Z" data-provider="Static" finished-at="2018-08-30T04:06:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[fkdsjjmxxy_1535317287@tfbnw.net]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password_12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_001_login_functionality -->
+        <test-method status="PASS" signature="closeDriverInstance()[pri:0, instance:testcases.LoginTest@5e5792a0]" name="closeDriverInstance" is-config="true" duration-ms="1136" started-at="2018-08-30T04:06:12Z" finished-at="2018-08-30T04:06:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+      </class> <!-- testcases.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
